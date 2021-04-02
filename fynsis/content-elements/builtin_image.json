@@ -1,0 +1,22 @@
+[
+  {
+    "id": "builtin_image-0lPPnM",
+    "formData": {
+      "typing$en": true,
+      "image$en": "http://localhost:3000/api/v1/bots/fynsis/media/nxvodfwl4vsra80bdzwi-1529653176879.png"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T12:44:37.190Z",
+    "modifiedOn": "2021-03-30T12:44:37.190Z"
+  },
+  {
+    "id": "builtin_image-yS-ICS",
+    "formData": {
+      "typing$en": true,
+      "image$en": "http://localhost:3000/api/v1/bots/fynsis/media/65yhs3jd6lao84xcgd0w-3996.jpg"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T12:47:08.972Z",
+    "modifiedOn": "2021-03-30T12:47:08.972Z"
+  }
+]

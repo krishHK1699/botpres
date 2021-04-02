@@ -1,0 +1,94 @@
+[
+  {
+    "id": "builtin_single-choice-2TCtkT",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Job Vacancy",
+          "value": "Job Vacancy"
+        },
+        {
+          "title": "Internships",
+          "value": "Internships"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "What you want {{user.nickname}}",
+      "isDropdown$en": false
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T07:53:25.084Z",
+    "modifiedOn": "2021-04-01T07:53:25.084Z"
+  },
+  {
+    "id": "builtin_single-choice-7o__as",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Part Time",
+          "value": "PartTime"
+        },
+        {
+          "title": "FullTime",
+          "value": "FullTime"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Ok {{user.nickname}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:13:46.252Z",
+    "modifiedOn": "2021-04-01T09:13:46.252Z"
+  },
+  {
+    "id": "builtin_single-choice-7DKuRG",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Part Time",
+          "value": "Part Time"
+        },
+        {
+          "title": "Full Time",
+          "value": "Full Time"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true,
+      "text$en": "Ok!!{{user.nickname}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:28:04.954Z",
+    "modifiedOn": "2021-04-01T09:28:04.954Z"
+  },
+  {
+    "id": "builtin_single-choice-sAi5Mu",
+    "formData": {
+      "dropdownPlaceholder$en": "Select...",
+      "choices$en": [
+        {
+          "title": "Yes",
+          "value": "Yes"
+        },
+        {
+          "title": "No",
+          "value": "No"
+        }
+      ],
+      "markdown$en": true,
+      "disableFreeText$en": false,
+      "typing$en": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T10:05:19.249Z",
+    "modifiedOn": "2021-04-01T10:05:19.249Z"
+  }
+]

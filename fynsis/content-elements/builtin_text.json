@@ -1,0 +1,211 @@
+[
+  {
+    "id": "builtin_text-repBQW",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hii! "
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T12:43:04.793Z",
+    "modifiedOn": "2021-03-30T12:43:35.677Z"
+  },
+  {
+    "id": "builtin_text-EErWUC",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Welcome To Fynsis!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T12:44:05.589Z",
+    "modifiedOn": "2021-03-30T12:44:05.589Z"
+  },
+  {
+    "id": "builtin_text-tEe9U-",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Whats your name?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T12:50:09.364Z",
+    "modifiedOn": "2021-03-30T12:50:09.364Z"
+  },
+  {
+    "id": "builtin_text-QSxWjq",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Hii!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T13:03:51.068Z",
+    "modifiedOn": "2021-03-30T13:03:51.068Z"
+  },
+  {
+    "id": "builtin_text-wjTJSU",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Welcome To Fynsis"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T13:04:29.808Z",
+    "modifiedOn": "2021-03-30T13:04:29.808Z"
+  },
+  {
+    "id": "builtin_text-urbHHA",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Whats your Name?"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T13:05:13.554Z",
+    "modifiedOn": "2021-03-30T13:05:13.554Z"
+  },
+  {
+    "id": "builtin_text-Ueu4Af",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "It's Nice To Meet You {{user.nickname}} :-)"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-03-30T13:12:43.352Z",
+    "modifiedOn": "2021-03-30T13:25:38.802Z"
+  },
+  {
+    "id": "builtin_text-EI2eLn",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "What is Your Qualification {{user.nickname}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T07:59:41.795Z",
+    "modifiedOn": "2021-04-01T08:04:26.246Z"
+  },
+  {
+    "id": "builtin_text-3INyn5",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Are You Student or Graduate "
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T08:02:13.251Z",
+    "modifiedOn": "2021-04-01T08:02:13.251Z"
+  },
+  {
+    "id": "builtin_text-6cjjSi",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "ok {{user.nickname}}!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T08:55:17.272Z",
+    "modifiedOn": "2021-04-01T08:55:17.272Z"
+  },
+  {
+    "id": "builtin_text-Sc5HUJ",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Ok !{{user.nickname}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:16:54.735Z",
+    "modifiedOn": "2021-04-01T09:45:52.770Z"
+  },
+  {
+    "id": "builtin_text-pQbT9E",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Ok!! Please Enter you Email ID and Contact Number {{user.nickname}}\n"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:17:54.732Z",
+    "modifiedOn": "2021-04-01T09:37:18.819Z"
+  },
+  {
+    "id": "builtin_text-vK7Jsd",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Sorry !!{{user.nickname}}Now parttime Internship is not!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:31:44.463Z",
+    "modifiedOn": "2021-04-01T09:31:44.463Z"
+  },
+  {
+    "id": "builtin_text-Hu_4pW",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Thank you!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:32:16.620Z",
+    "modifiedOn": "2021-04-01T09:32:16.620Z"
+  },
+  {
+    "id": "builtin_text-WTMOPt",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Ok!! {{user.nickname}} Please Enter your Email and Phone Number  :-)"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:34:02.868Z",
+    "modifiedOn": "2021-04-01T09:34:02.868Z"
+  },
+  {
+    "id": "builtin_text-1L0CRA",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Our Team will Contact you{{user.nickname}}!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:35:37.916Z",
+    "modifiedOn": "2021-04-01T09:35:37.916Z"
+  },
+  {
+    "id": "builtin_text-hxkZrn",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Thank you!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:38:03.268Z",
+    "modifiedOn": "2021-04-01T09:38:03.268Z"
+  },
+  {
+    "id": "builtin_text-xUFzv6",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Part Time Jobs are not Availble!!"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:47:00.684Z",
+    "modifiedOn": "2021-04-01T09:47:00.684Z"
+  },
+  {
+    "id": "builtin_text-s7ryIM",
+    "formData": {
+      "markdown$en": true,
+      "typing$en": true,
+      "text$en": "Do You have any knowledge in SuitCRM!!{{user.nickname}}"
+    },
+    "createdBy": "admin",
+    "createdOn": "2021-04-01T09:50:56.701Z",
+    "modifiedOn": "2021-04-01T09:50:56.701Z"
+  }
+]
